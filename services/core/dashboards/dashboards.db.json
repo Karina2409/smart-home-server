@@ -280,7 +280,7 @@
             {
               "id": "climate-bedroom",
               "title": "Bedroom",
-              "layout": "singleDevice",
+              "layout": "verticalLayout",
               "items": [
                 {
                   "type": "sensor",
@@ -305,7 +305,7 @@
             {
               "id": "climate-kitchen",
               "title": "Kitchen",
-              "layout": "singleDevice",
+              "layout": "verticalLayout",
               "items": [
                 {
                   "type": "sensor",
